@@ -1,5 +1,5 @@
-Navigation 
-### pwd — print working directory.
+### Navigation 
+● pwd — print working directory.
   ➜ Example: pwd
 
 ● ls — list directory contents.
@@ -602,22 +602,3 @@ Navigation
 
 ● init 6 — switch to reboot runlevel. ⚠ dangerous — example omitted.
   ➜ Example: # not shown for safety
-
-### Summary Index 
-Navigation 
-Files and directories 
-Viewing and paging 
-Search and text processing 
-Permissions and ownership 
-Processes and jobs 
-System info and logs 
-Disks, partitions, and filesystems 
-Networking and DNS 
-Archiving, compression, and sync 
-Package management (Debian/Ubuntu) 
-Package management (RHEL/CentOS/Fedora) 
-Services and scheduling 
-Environment and shell 
-Containers and orchestration 
-Cloud CLIs 
-Shutdown and reboot
